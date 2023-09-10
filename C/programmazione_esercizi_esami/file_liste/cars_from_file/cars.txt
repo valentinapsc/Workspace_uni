@@ -1,2 +1,0 @@
-FORD    FIESTA  2010    1.6
-OPEL    ASTRA   2005    1.4
