@@ -1,0 +1,6 @@
+
+nome: luca
+numero: 23456
+
+nome: piccolo
+numero: 45567

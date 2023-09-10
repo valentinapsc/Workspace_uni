@@ -1,0 +1,6 @@
+londra 15
+vienna 18
+roma 32
+parigi 22
+amsterdam 12
+madrid 38

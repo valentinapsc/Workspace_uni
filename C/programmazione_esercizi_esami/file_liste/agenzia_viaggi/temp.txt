@@ -1,0 +1,6 @@
+madrid               c
+roma                 c
+parigi               t
+amsterdam            f
+vienna               f
+londra               f
