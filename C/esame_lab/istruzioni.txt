@@ -1,0 +1,10 @@
+//Matricola: N86004086
+//Cognome: Piscopo
+//Nome: Valentina
+
+# compilo il file functions.c consecutivamente viene generato functions.o
+gcc -c functions.c 
+# compilo il file main.c dopodichè viene generato main.o
+gcc -c main.c 
+# effettuo il linking tra main.o e functions.o quindi viene generato utente_prog_N4086.exe
+gcc function.o main.o -o utente_prog_N4086.exe
