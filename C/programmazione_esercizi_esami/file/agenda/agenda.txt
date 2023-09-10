@@ -1,0 +1,6 @@
+5
+gioco da Lunedi' ore 10 a Giovedi' ore 8
+Studio da Lunedi' ore 10 a Giovedi' ore 8
+Partita da Martedi' ore 18 a Martedi' ore 21
+Allenamenti da Sabato ore 16 a Domenica ore 23
+Cinema da Giovedi' ore 20 a Giovedi' ore 22
